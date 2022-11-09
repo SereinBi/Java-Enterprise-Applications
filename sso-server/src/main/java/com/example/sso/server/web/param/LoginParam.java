@@ -5,8 +5,6 @@ import lombok.Data;
 
 /**
  * 登录参数
- *
- * @author 程序员小强
  */
 @Data
 public class LoginParam {
